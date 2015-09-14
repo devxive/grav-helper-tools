@@ -1,0 +1,7 @@
+{
+    "name": "devxive/grav-helper-tools",
+    "description": "Useful helper tools for Grav. getgrav.org",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
